@@ -1,0 +1,6 @@
+/home/andrew/Projects/TicTacToe/TicTacToe/bin/Debug/TicTacToe.exe
+/home/andrew/Projects/TicTacToe/TicTacToe/bin/Debug/TicTacToe.pdb
+/home/andrew/Projects/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.csproj.AssemblyReference.cache
+/home/andrew/Projects/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.csproj.CoreCompileInputs.cache
+/home/andrew/Projects/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.exe
+/home/andrew/Projects/TicTacToe/TicTacToe/obj/x86/Debug/TicTacToe.pdb
